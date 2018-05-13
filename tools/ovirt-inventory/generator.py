@@ -12,7 +12,7 @@ import yaml
 from cStringIO import StringIO
 from helpers.api import ApiData
 from helpers.engine import EngineData
-from helpers.yaml import YamlGenerator
+from helpers.yaml_generator import YamlGenerator
 from jinja2 import Environment, FileSystemLoader
 
 
